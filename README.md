@@ -1,4 +1,4 @@
-# Predicción de Cancelaciones de Viajes de Uber
+# Predicción de Cancelaciones de Viajes Uber
 
 El objetivo de este proyecto es el estudio del data set de Uber y predecir si un viaje de Uber será cancelado o no, utilizando información disponible antes de que el viaje se realice. Esto puede ayudar a mejorar la eficiencia operativa y la experiencia del usuario.
 
